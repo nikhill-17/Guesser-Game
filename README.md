@@ -41,18 +41,18 @@ Scanner class for user input
 
 ▶️ How to Run
 
-Clone the repository
+1. Clone the repository
 
 git clone https://github.com/nikhill-17/Guesser-Game.git
 
-Go to the project folder
+2. Go to the project folder
 
 cd Guesser-Game
 
-Compile the program
+3. Compile the program
 
 javac Game.java
 
-Run the program
+4. Run the program
 
 java Game
